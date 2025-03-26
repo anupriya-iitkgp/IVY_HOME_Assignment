@@ -64,3 +64,4 @@ if __name__ == "__main__":
         for name in sorted(all_names):
             f.write(name + "\n")
     print("Names saved to extracted_names.txt")
+    
